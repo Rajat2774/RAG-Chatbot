@@ -171,7 +171,7 @@ header, footer {visibility: hidden;}
 </style>
 """, unsafe_allow_html=True)
 
-model_choice = 'gemma2-9b-it'
+model_choice = 'llama-3.1-8b-instant'
 top_k = 3
 temperature = 0.2
 max_tokens = 512
